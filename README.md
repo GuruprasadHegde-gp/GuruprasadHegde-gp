@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Server side Development**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Binary Search**
 
 - 📫 How to reach me **Guruprasadhegde02@gmail.com**
 
