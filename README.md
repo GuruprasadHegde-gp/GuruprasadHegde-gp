@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **Server side Development**
+- 🌱 I’m currently learning **Smart Contract Development**
 
 - 💬 Ask me about **Binary Search**
 
