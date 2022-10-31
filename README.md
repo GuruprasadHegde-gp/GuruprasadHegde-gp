@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guruprasadhegde-gp" alt="guruprasadhegde-gp" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 
 
 - 🌱 I’m currently learning **Smart contract development Using Solidity**
 
