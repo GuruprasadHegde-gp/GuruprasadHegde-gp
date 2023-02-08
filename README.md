@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guruprasadhegde-gp" alt="guruprasadhegde-gp" /></a> </p>
 
-- 
 
-- 🌱 I’m currently learning **Smart contract development Using Solidity**
 
-- 💬 Ask me about **Binary Search**
+- 🌱 I’m currently learning **ReactJs**
+
 
 - 📫 How to reach me **Guruprasadhegde02@gmail.com**
 
