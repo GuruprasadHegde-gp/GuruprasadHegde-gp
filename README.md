@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Spring boot**
 
 
 - 📫 How to reach me **Guruprasadhegde02@gmail.com**
